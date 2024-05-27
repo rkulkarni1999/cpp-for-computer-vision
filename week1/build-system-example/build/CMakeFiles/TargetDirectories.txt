@@ -1,0 +1,4 @@
+/home/toothpic/test/build-system-example/build/CMakeFiles/tools.dir
+/home/toothpic/test/build-system-example/build/CMakeFiles/main.dir
+/home/toothpic/test/build-system-example/build/CMakeFiles/edit_cache.dir
+/home/toothpic/test/build-system-example/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/toothpic/test/build-system-example/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/tools.dir/tools.cpp.o -c /home/toothpic/test/build-system-example/tools.cpp",
+  "file": "/home/toothpic/test/build-system-example/tools.cpp"
+},
+{
+  "directory": "/home/toothpic/test/build-system-example/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/main.dir/main.cpp.o -c /home/toothpic/test/build-system-example/main.cpp",
+  "file": "/home/toothpic/test/build-system-example/main.cpp"
+}
+]
