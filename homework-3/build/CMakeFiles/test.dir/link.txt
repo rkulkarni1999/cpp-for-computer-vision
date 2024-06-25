@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/test.dir/src/test.cpp.o CMakeFiles/test.dir/src/html_writer.cpp.o -o test  /usr/lib/x86_64-linux-gnu/libfmt.so.8.1.1 -Wl,--as-needed 

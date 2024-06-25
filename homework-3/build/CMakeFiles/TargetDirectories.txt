@@ -1,0 +1,3 @@
+/home/toothpic/tutorials/cpp-for-computer-vision/homework-3/build/CMakeFiles/test_program.dir
+/home/toothpic/tutorials/cpp-for-computer-vision/homework-3/build/CMakeFiles/edit_cache.dir
+/home/toothpic/tutorials/cpp-for-computer-vision/homework-3/build/CMakeFiles/rebuild_cache.dir
